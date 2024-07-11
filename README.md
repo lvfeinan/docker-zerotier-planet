@@ -1,8 +1,3 @@
-TG交流群：https://t.me/+JduuWfhSEPdlNDk1
-
-QQ交流群1群（已满）：692635772
-QQ交流群2群：785620313
-
 **Feature:**
 1. 支持Linux/AMD64、支持Linux/ARM64
 2. docker 容器化部署
@@ -50,19 +45,6 @@ QQ交流群2群：785620313
 - [类似项目](#类似项目)
 - [捐助和支持](#捐助和支持)
 - [鸣谢](#鸣谢)
-
-# 0: 广告
-**不想自己搭建?**
-
-可以加群联系群主按月购买现成服务,或者添加tg: [https://t.me/uxkram](https://t.me/uxkram)
-
-年付99￥,最大300Mbit带宽,单月流量限制200G,流量超出后10￥可购买100G
-
-线路为宁波电信
-
-测速图如下：
-
-<img src="./asserts/nb-speed-test.png" width = "800" height = "" alt="图片名称" align=center />
 
 # 1：ZeroTier 介绍
 
@@ -415,43 +397,3 @@ services:
     restart: unless-stopped
 
 ```
-
-# 开发计划
-🥰您的捐助可以让开发计划的速度更快🥰
-- [ ] 多planet支持
-- [x] 3443端口自定义支持
-- [ ] planet和controller分离部署
-
-
-
-# 风险声明
-
-本项目仅供学习和研究使用，不鼓励用于商业用途。我们不对任何因使用本项目而导致的任何损失负责。
-
-
-# 类似项目
-- [wireguard一键脚本](https://github.com/xubiaolin/wireguard-onekey)
-
-
-# 捐助和支持
-
-如果觉得本项目对您有帮助，欢迎通过扫描下方赞赏码捐助项目 :)
-
-<img src="asserts/donate.png" alt="donate" width="400" height="400" />
-
-# 鸣谢
-感谢以下网友投喂，你们的支持和鼓励是我不懈更新的动力
-
-- Kimi Chen
-- 岸芷汀兰
-- **忠
-- 夏末秋至
-- 匿名
-- 啊乐
-- 天天星期天
-- 情若犹在
-- 小猪猪的饲养员
-- Calvin
-- 你好
-- 我
-- 随性
